@@ -45,6 +45,8 @@ div{
   border: 2px solid black;
   text-align: center;
   align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 
 img{
@@ -64,6 +66,3 @@ img{
       border-left: 1px solid #CCCCCC;
 
 }
-
-
-  
