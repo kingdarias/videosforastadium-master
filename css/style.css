@@ -41,13 +41,20 @@ h1{
   text-align: center;
 }
 
+h2{
+  font-family: impact;
+  font-size: 48px;
+  text-align: center;
+}
+
 p{
   font-family: 'Open Sans Condensed', sans-serif;
   font-size: 1.0em;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 25px;
+    padding-bottom: 25px;
     padding-left: 50px;
     padding-right:50px;
+
 }
 
 div{
@@ -55,7 +62,7 @@ div{
 }
 
     .button {
-      font: bold 11px Arial;
+      font: bold 13px Arial;
       text-decoration: none;
       background-color: #EEEEEE;
       color: #333333;
