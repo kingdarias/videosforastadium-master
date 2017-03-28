@@ -70,3 +70,39 @@ th, td {
     background-color: #ff9414;
     color: black;
     padding: 10px;
+}
+    div{
+        }
+
+       .artists h1{
+          text-align: center;;
+
+
+       }
+
+       .artists h1{
+          color: black;
+          font-size:20px;
+        }
+
+       .artists p{
+          color: black;
+          font-size: 14px;
+          text-align: center;
+        }
+
+    .date h1{
+      text-align: center;
+      color: black;
+      font-size: 35px;
+    }
+    .date h2{
+      text-align: center;
+      color: black;
+      font-size: 18px;
+    }
+    .date h3{
+      text-align: center;
+      color: black;
+      font-size: 18px;
+    }
