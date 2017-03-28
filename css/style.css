@@ -14,10 +14,6 @@
 
 }
 
-#table{
-  padding-right: 15px; padding-left: 30px; padding-top:2px; padding-bottom:2px;
-
-}
 
 }
 
@@ -53,7 +49,7 @@ p{
 }
 
 div{
-  border:1px solid black;
+  border:2px solid black;
   size: relative;
   background-color: #ffffff;
     color: #000000;
@@ -72,11 +68,6 @@ div{
 
 }
 
-th, td {
-    background-color: #ff9414;
-    color: black;
-    padding: 10px;
-}
 
       .artists h1{
         text-align: center;
