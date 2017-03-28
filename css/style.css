@@ -45,6 +45,11 @@ div{
   align-items: center;
 }
 
+img{
+  size: 200px;
+  margin: auto;
+}
+
     .button {
       font: bold 13px Arial;
       text-decoration: none;
