@@ -56,7 +56,7 @@ div{
 
   border:1px solid black;
   size: relative;
-  background-color: #ff9414;
+  background-color: #ffffff;
     color: #000000;
 
 }
@@ -74,13 +74,8 @@ th, td {
     div{
         }
 
-       .artists h1{
-          text-align: center;;
-
-
-       }
-
-       .artists h1{
+      .artists h1{
+        text-align: center;
           color: black;
           font-size:20px;
         }
