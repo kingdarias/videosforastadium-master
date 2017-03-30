@@ -42,7 +42,8 @@ p{
 }
 
 div{
-  border: 2px solid black;
+  border: 2px solid;
+  color: #0033A0;
   text-align: center;
   align-items: center;
   padding-top: 40px;
